@@ -1,0 +1,222 @@
+@media only screen and (min-width: 320px) and (max-width: 900px) {
+    body{
+        background-color: rgb(218, 228, 236);
+        margin: 0;
+        padding: 0;
+    }
+    #drone img{
+        display: none;
+    }
+    #ab{
+        text-align: center;
+    }
+    .testi{
+        background-color: rgb(200, 235, 235);
+    }
+    .head{
+        display: flex;
+        flex-direction: row;
+        background-color: rgba(20, 3, 65, 0.3);
+        margin-left: 0rem;
+
+    }
+    .logo h2{
+        color: yellow;
+        text-decoration: none;
+    }
+    .links{
+        text-decoration: none;
+    }
+    #sp{
+        color: rgb(63, 4, 117);
+        text-align: center;
+        font-size: large;
+        
+    }
+    .drone{
+        width: 100%;
+    }
+    #drone span{
+        position: absolute;
+        color: rgb(27, 29, 1);
+        font-size: xx-small;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #drone span h2 {
+        margin-top: 0rem;
+        color: yellow;
+        font-weight: 100rem;
+        margin-left: 0.25rem;
+        }
+        .links{
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+            margin-left: 0rem;
+            font-size:x-small;
+            align-items: center;
+            margin-top: 0rem;
+            
+        }
+        #btn{
+            background-color: rgb(231, 228, 9);
+            color: rgb(95, 52, 223);
+            border: none;
+            margin-right: 0.4rem;
+           outline: none;
+           font-size: x-small;
+            width: 5rem;
+
+            padding: 0.3rem;
+            
+        }
+        .exp{
+            display: flex;
+            flex-direction: column-reverse;
+        }
+        .sdimg{
+            display: flex;
+            flex-direction: column;
+            gap: 0rem;
+        }
+        .sdimg #one{
+            margin-top: 3rem;
+            width: 100%;
+            height:15rem;
+            margin-left: 0rem;
+        }
+        .sdimg #two{
+            display: none;
+        }
+        .text {
+            font-size: small;
+            font-family:'Segoe UI',;
+            margin-top: 0rem;
+        }
+        #cab{
+            width: 100%;
+            margin-left: 0rem;
+        }
+footer{
+    width: 100%;
+    font-size: xx-small;
+    gap: 0rem;
+    display: flex;
+    flex-direction: row;
+
+}
+.qck{
+    display: flex;
+   flex-direction: column;
+   margin-left: 1rem;
+    justify-content: flex-start;
+   font-size: x-small;
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+}
+footer span{
+    margin-top: 6.5rem;
+    font-size: xx-small;
+    text-align: left;
+}
+.cntadd{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0rem;
+    align-items: center;
+    font-size: xx-small;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.logo{
+    color: yellow;
+    font-size: small;
+}
+.logo h2{
+    font-size: smaller;
+    margin-left: 5px;
+}
+.write{
+    text-align:center;
+    }
+.stuff{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 2rem;
+    font-family:'Segoe UI',;
+    font-size: large;
+    font-weight: 1px;
+}
+
+#trat{
+    height: 15rem;
+    width: 80%;
+    margin-left: 2.5rem;
+}
+.rest{
+    text-align: center;
+}
+.everything{
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+}
+.pro{
+    padding: 0rem;
+    text-align: center;
+    margin-left: 0rem;
+    margin-top: 5px;
+}
+.products{
+    padding: 0rem;
+}
+
+#bot{
+    width: 100%;
+}
+.ben{
+    padding: 0rem;
+}
+.gal{
+    display: flex;
+    justify-content: center;
+flex-direction: row;
+gap: 1rem;
+margin-left: 5rem;
+}
+.mag{
+    display: flex;
+    justify-content: center;
+flex-direction: row; 
+gap: 1rem;
+margin-left: 0rem;
+
+}
+#lery{
+    height: 5rem;
+    width: 5rem;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
