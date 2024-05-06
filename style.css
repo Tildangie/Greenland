@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(218, 228, 236);
+    background-color: white;
     margin: 0;
         
 }
 #btn{
-    background-color: rgb(231, 228, 9);
-    color: rgb(95, 52, 223);
+    background-color: rgb(245, 245, 239);
+    color: blue;
     border: none;
     border-radius: 0.5rem;
     padding: 0.5rem;
@@ -19,15 +19,15 @@ body{
     cursor: pointer;
     transition:ease-in ;
     transition-duration: 1.7s;
-    color: rgb(13, 14, 1);
-    background-color: rgb(223, 238, 15);
+    color: rgb(246, 247, 241);
+    background-color: rgb(33, 7, 177);
 }
 nav{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(11, 1, 41);
+    background-color: rgb(164, 135, 250);
 }
 #trat{
     height: 25rem;
@@ -41,7 +41,7 @@ nav{
 .head{
     display: flex;
     flex-direction: row;
-    background-color: rgba(20, 3, 65, 0.3);
+    background-color: rgba(68, 21, 199, 0.3);
     margin-left: 3rem;
     
 }
@@ -53,13 +53,16 @@ nav{
     width: 25rem;
 }
 #sp{
-    color: rgb(63, 4, 117);
+    color: blue;
     text-align: center;
     
 }
 .ben{
     text-align: center;
     padding: 3rem;  
+}
+.ben h1{
+    color: blue;
 }
 
 #lery{
@@ -80,8 +83,14 @@ flex-direction: row;
 gap: 1rem;
 margin-left: 20rem;
 }
+.come{
+    color: rgb(4, 4, 133);
+}
+
+
 #til{
     text-align: center;
+    color: blue;
 }
 .everything{
     display: flex;
@@ -135,7 +144,7 @@ text-align:center;
 margin-top: 0px;
 }
 .logo h2{
-    color: yellow;
+    color: rgb(247, 247, 238);
     text-decoration: none;
 }
 .links{
@@ -153,12 +162,12 @@ margin-top: 0px;
     font-family: 'Courier New', Courier, monospace;
 }
 footer h3{
-    color: yellow;
+    color: rgb(247, 247, 241);
 }
 #drone span h2 {
 margin-top: 0rem;
-color: yellow;
-font-weight: 100rem;
+color: rgb(247, 247, 240);
+font-weight: bolder;
 }
 
 .concen{
@@ -174,19 +183,46 @@ font-weight: 100rem;
 .testi{
     font-size: x-large;
     font-family:'Segoe UI',;
-    background-color: rgb(250, 236, 236);
+    background-color: rgb(244, 244, 250);
+}
+.testi h3{
+    color: blue;
+}
+.text h1{
+    color: blue;
+}
+.pro h1{
+    color: blue;
+}
+.products h3{
+    color: blue;
+}
+#ab{
+    color: blue;
+}
+.write h2{
+    color: blue;
+}
+.links a {
+    color: white;
 }
 footer{
     display: flex;
     flex-direction: row;
-    background-color: rgb(17, 17, 17);;
+    background-color: rgb(142, 101, 255);;
     gap: 1rem;
     color: aliceblue;
 
 }
 footer span{
     font-size: large;
-    color: yellow;
+    color: rgb(248, 248, 244);
+}
+.pro h1{
+    color: blue;
+}
+.products h3{
+    color: blue;
 }
 .qck{
    display: flex;
