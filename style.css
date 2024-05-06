@@ -209,7 +209,7 @@ font-weight: bolder;
 footer{
     display: flex;
     flex-direction: row;
-    background-color: blue;
+    background-color: rgb(101, 80, 197);
     gap: 1rem;
     color: white;
 

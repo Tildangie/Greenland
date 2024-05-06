@@ -135,6 +135,7 @@ footer{
     gap: 0rem;
     display: flex;
     flex-direction: row;
+    background-color: rgb(101, 80, 197);
 
 }
 .links a {
