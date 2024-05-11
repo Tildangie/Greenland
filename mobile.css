@@ -87,7 +87,7 @@
             background-color: white;
             color: rgb(4, 0, 10);
             padding: 1rem;
-            /* text-align: center; */
+            text-align: center;
         }
         .text h1{
             color: blue;
